@@ -97,4 +97,4 @@
 ###
 <p align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Liam-Wirth?theme=dark&font=JetBrains%20Mono&ext=heatmap)</p>
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Liam-Wirth?theme=dark&font=JetBrains%20Mono&ext=heatmap)</p>

@@ -90,7 +90,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
   </a> /--!>
   
-  <a href="ltwirth@asu.edu" target="_blank">
+  <a href="mailto:ltwirth@asu.edu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/liam-wirth-0126b3267/" target="_blank">

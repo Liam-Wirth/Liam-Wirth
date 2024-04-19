@@ -33,7 +33,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ps" height="46" alt="adobephotoshop logo"  />
   <img width="5" />
-
+  <img src="https://skillicons.dev/icons?i=emacs" height="46" alt="gnuemacs logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="46" alt="python logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=md" height="46" alt="markdown logo"  />
@@ -46,8 +47,7 @@
    <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=emacs" height="46" alt="gnuemacs logo"  />
-  <img width="5" />
+  
   <img src="https://skillicons.dev/icons?i=regex" height="46" alt="regex logo"  />
   <img width="5" />
 
@@ -100,8 +100,6 @@
 <!-- todo: add a leetcode button? or maybe some other links? /--!>
 ###
 
-
-###
 <p align="center">
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Liam-Wirth?theme=dark&font=JetBrains%20Mono&ext=heatmap)</p>

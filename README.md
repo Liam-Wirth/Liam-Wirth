@@ -1,7 +1,6 @@
 
 <h2 align="left">Hi 👋! -I'm Liam </h2>
 
-###
 
 <div align="center">
   <img src="https://readmestats-da96-git-main-liam-wirths-projects.vercel.app/api?username=liam-wirth&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="145" alt="stats graph"  />
@@ -11,8 +10,6 @@
   
 </div>
 
-
-###
 
 <img align="right" height="250" src="https://github.com/Liam-Wirth/Liam-Wirth/blob/main/Screenshot%20from%202024-02-01%2016-58-24.png?raw=true"  />
 <div align="left">

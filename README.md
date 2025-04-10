@@ -96,8 +96,6 @@
   </a>
 </div>
 <!-- todo: add a leetcode button? or maybe some other links? /--!>
-###
-
 <p align="center">
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Liam-Wirth?theme=dark&font=JetBrains%20Mono&ext=heatmap)</p>

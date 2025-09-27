@@ -9,9 +9,7 @@
   <img src="https://readmestats-da96-git-main-liam-wirths-projects.vercel.app/api/top-langs?username=liam-wirth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&exclude_repo=readmestats&hide=(Makefile,jupyter%20notebook,makefile" height="145" alt="languages graph"  />
   
 </div>
-
-
-<img align="right" height="250" src="https://github.com/Liam-Wirth/Liam-Wirth/blob/main/Screenshot%20from%202024-02-01%2016-58-24.png?raw=true"  />
+<!--
 <div align="left">
   <img src="https://skillicons.dev/icons?i=rust" height="46" alt="rust logo"  />
   <img width="5" />
@@ -45,17 +43,19 @@
    <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="46" alt="typescript logo"  />
   <img width="5" />
-  
+  <!--
   <img src="https://skillicons.dev/icons?i=regex" height="46" alt="regex logo"  />
   <img width="5" />
 
     <img src="https://cdn.simpleicons.org/opengl/5586A4" height="46" alt="opengl logo"  />
+  <!--
   <img width="5" />
     <img src="https://skillicons.dev/icons?i=powershell" height="46" alt="powershell logo"  />
+    <!--
   <img width="5" />
     <img src="https://skillicons.dev/icons?i=codepen" height="46" alt="codepen logo"  />
   <img width="5" />
-  /!--> 
+   
   <img src="https://skillicons.dev/icons?i=bevy" height="46" alt="bevy logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=neovim" height="46" alt="neovim logo"  />
@@ -79,8 +79,8 @@
 
   <img src="https://cdn.simpleicons.org/replit/F26207" height="46" alt="replit logo"  />
 </div>
-
-<div align="left">
+/!-->
+<div align="center">
   <a href="https://www.youtube.com/channel/UCYeOrk5ep8wJQvGoX9Cqh3g" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
   </a>
@@ -95,6 +95,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
 </div>
+<div align="center">
+  <img align="center" height="250" src="https://github.com/Liam-Wirth/Liam-Wirth/blob/main/Screenshot%20from%202024-02-01%2016-58-24.png?raw=true"  />
+</div>
+
 <!-- ![](https://komarev.com/ghpvc/?username=Liam-Wirth)
 
 <!-- todo: add a leetcode button? or maybe some other links? /--!>
